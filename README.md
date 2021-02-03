@@ -5,53 +5,28 @@ Conteúdo das aulas da disciplina Algorítmos Avançados
 
 ---
 
-### Aula 1 - 26/01/2021
-Apresentação da disciplina
-<br>Sugestão de leitura: 
+### Aula 1 - 25/01/2021
 
 ---
 
-### Aula 2 - 02/02/2021
-Divisão dos grupos para o projeto
-
-Integrantes do grupo:
-* Bruno Mendes
-* Fábio Pereira
-* Fábio Ramos
-* Ronilson Batista
-
-<br>Discusão inicial para o TP1
-<br>Em príncipio escolhemos a Uber
-
-Links sobre a Uber
-* https://www.youtube.com/watch?v=EW9GjQNcyzI
-* https://medium.com/edureka/microservice-architecture-5e7f056b90f1
-* https://eng.uber.com/building-tincup-microservice-implementation/
-* https://eng.uber.com/microservice-architecture/
-* https://eng.uber.com/service-oriented-architecture/
+### Aula 2 - 27/02/2021
 
 ---
 
-### TP1 (23 de fevereiro)
-* Escolher uma empresa que utiliza microsserviços
-* Fazer uma apresentação com cerca de 12 slides (20min) explicando o tipo de arquitetura que utiliza, os pró e contras de utilizar microsserviços
+### Aula 3 - 01/03/2021
 
 ---
 
-### TP3 (23 de março)
+### Aula 4 - 03/03/2021
 
 ---
 
-### TP5 (06 de Abril)
+### TP1 ()
 
 ---
 
-### TP7 (05 de Maio)
+### TP3 ()
 
 ---
 
-### TP9 (01 de Junho)
-
----
-
-### PB (08 e 15 de Junho)
+### ASS ()
