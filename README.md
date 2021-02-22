@@ -21,7 +21,7 @@ Conteúdo das aulas da disciplina Algorítmos Avançados
 
 ---
 
-### TP1 ()
+### [TP1 (08/03/2021)](https://lms.infnet.edu.br/moodle/mod/assign/view.php?id=223653)
 
 ---
 
